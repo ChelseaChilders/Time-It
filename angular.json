@@ -120,5 +120,9 @@
       }
     }
   },
-  "defaultProject": "time-it"
+  "defaultProject": "time-it",
+  "cli": {
+    "analytics": false,
+    "defaultCollection": "@angular-eslint/schematics"
+  }
 }
