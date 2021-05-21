@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanfire-ae4fb": {
+      "hosting": {
+        "time-it": [
+          "kanbanfire-ae4fb"
+        ]
+      }
+    }
+  }
+}
