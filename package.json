@@ -1,6 +1,6 @@
 {
   "name": "time-it",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,7 +8,7 @@
     "deploy": "firebase deploy",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "update": "bash ./scripts/update.sh"
   },
   "private": true,
   "dependencies": {

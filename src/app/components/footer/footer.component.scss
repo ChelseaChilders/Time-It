@@ -1,0 +1,6 @@
+@import "../../../styles.scss";
+div {
+  background-color: mat-color($primary);
+  color: mat-color($primary, default-contrast);
+  padding: 15px 30px;
+}

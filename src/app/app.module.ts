@@ -11,9 +11,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TaskDialogComponent } from './components/task-dialog/task-dialog.component';
 import { TaskComponent } from './components/task/task.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
-  declarations: [AppComponent, TaskComponent, TaskDialogComponent],
+  declarations: [AppComponent, TaskComponent, TaskDialogComponent, FooterComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
